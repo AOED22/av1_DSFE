@@ -1,0 +1,25 @@
+body{
+    background-color: yellow;
+}
+
+img {
+    height: 400px;
+    width: 1387px;
+}
+
+div{
+    background-color: brown;
+    border-radius: 12px;
+}
+
+h1{
+    font-size: 60px;
+    color: white;
+}
+
+
+p{
+    color: white;
+    font-size: 30px;
+}
+
